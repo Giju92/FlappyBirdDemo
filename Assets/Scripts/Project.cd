@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApplicationController" Collapsed="true">
+    <Position X="6.75" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAgAAAAAACAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ApplicationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConstant" Collapsed="true">
+    <Position X="14.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Utils\GameConstant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioManager" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAICAAAgAgAAAAAUAABAAAAAAAAEEA=</HashCode>
+      <FileName>Assets\Scripts\Managers\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObstaclesManager" Collapsed="true">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAQAAAAhAAAAUAAAAAAABAAAAQAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\ObstaclesManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAQCAGAAACAAAQAAAAACBAEAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\ScoreManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAJAEAAAAAAEIA=</HashCode>
+      <FileName>Assets\Scripts\Managers\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseObserver" Collapsed="true">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAgACAAAQAAGAAAAACAQCAAAABJAEIAgAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\BaseObserver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlappyBird" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAEEAAAAAAAQAAAEAABAAQAAAAAEEA=</HashCode>
+      <FileName>Assets\Scripts\Elements\FlappyBird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ground" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAIAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Elements\Ground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obstacle" Collapsed="true">
+    <Position X="11" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAIAAAAAAEAAAAAAAAAAAAABAEAgAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Elements\Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseObjectPoolItem" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAACAAgAAAAAAAQAAggAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\BaseObjectPoolItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BaseSingleton&lt;T&gt;" Collapsed="true">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAAAAAAEAAAAAABAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\BaseSingleton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BaseSubject" Collapsed="true">
+    <Position X="11.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAEA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\BaseSubject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Counter" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Elements\Counter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseObjectPool" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAABAAAAAAAAEAAAAAAAAAAAAEACgAAA=</HashCode>
+      <FileName>Assets\Scripts\BaseClasses\BaseObjectPool.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="GameEventEnum" Collapsed="true">
+    <Position X="14.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAABAAAgACAAAAAAAAQBAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utils\GameEventEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
